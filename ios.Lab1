@@ -3,7 +3,7 @@ struct Bicycle {
     let type: BicycleType?
     let gears: Int?
 
-    // Метод для опису велосипеда
+    
     func describeBicycle() {
         var description = "Brand: \(brand)"
         
