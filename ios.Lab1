@@ -1,0 +1,5 @@
+let cyclist1 = Cyclist(name: "Anna", bicycle: bicycles[0])
+let cyclist2 = Cyclist(name: "Tom", bicycle: nil)
+
+cyclist1.describeBicycle()
+cyclist2.describeBicycle()
